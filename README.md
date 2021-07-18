@@ -1,4 +1,4 @@
 - 👋 Hi! I’m A7!
 - 👀 I’m in love with anything that is or has electronics in it 
 - 🌱 I’m currently studying CCE and foucsing on embedded systems development
-- 📫 You are always welcome to email me at A7-00@hotmail.com
+- 📫 You are always welcome to email me at A7Electronics.AS@ieee.org
